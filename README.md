@@ -1,33 +1,17 @@
 # React
 
-## ch01
+## ch01 Hello React
 
-- Hello World / Hello React
+## ch02 React JSX 실습
 
-## ch02
+## ch03 React 컴포넌트 실습
 
-- React JSX 실습
+## ch04 React 이벤트
 
-## ch03
+## ch05 React Hooks 실습
 
-- React 컴포넌트 실습
+## ch06 React Router 실습
 
-## ch04
+## ch07 React 리덕스 실습
 
-- React 이벤트
-
-## ch05
-
-- React Hooks 실습
-
-## ch06
-
-- React Router 실습
-
-## ch07
-
-- React 리덕스 실습
-
-## ch 08
-
-- React 비동기 통신
+## ch08 React 비동기 통신
